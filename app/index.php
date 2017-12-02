@@ -1,6 +1,6 @@
-<h1>BMXUG つきじ#1</h1>
-<h2>Kubernetes on Bluemix + DevOpsで CIやってみた</h2>
+<h1>BMXUG 冬の大勉強会 2017</h1>
+<h2>Kubernetes on IBM Cloud + DevOps CI</h2>
 <hr>
-へいおまちっ！！！<br>
-<img src="sushi-1958247_640.jpg">
+Ho,Ho,Ho, Merry X'mas!!<br>
+<img src="christmas-2949687_640.jpg">
 
