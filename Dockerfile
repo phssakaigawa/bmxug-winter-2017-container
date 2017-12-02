@@ -44,4 +44,4 @@ RUN sed -i -e 's#AllowOverride None#AllowOverride All#g' /etc/httpd/conf/httpd.c
 EXPOSE 80
 
 #httpdの実行
-MD ["httpd", "-D", "FOREGROUND"]
+CMD ["httpd", "-D", "FOREGROUND"]
